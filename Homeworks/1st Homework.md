@@ -9,7 +9,7 @@
 
     cp2 file1 file2 out
 
-file1과 file2의 내용을 out에 복사
+이 명령을 실행하면 file1과 file2의 내용을 out에 복사합니다.
 
 ## 주의할 점 
 
@@ -18,4 +18,4 @@ file1과 file2의 내용을 out에 복사
 
 ## 참고할 예제
 
-- TBA
+-   TBA
