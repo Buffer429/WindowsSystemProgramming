@@ -1,5 +1,16 @@
-/* Basic Copy File Program			          */
-/* CopyFile file1 file2 : Copy file1 to file2 */
+/*************************************************************************
+> File Name: CopyFile.cpp
+> Author: Chan-Ho Chris Ohk
+> E-mail: utilForever@gmail.com
+> Created Time: 2015/11/03
+> Personal Blog: https://github.com/utilForever
+************************************************************************/
+
+/*
+	Basic Copy File Program 
+	Usage: CopyFile file1 file2
+	(Copy file1 to file2)
+*/
 
 #include <windows.h>	// Always required for Windows
 #include <stdio.h>
